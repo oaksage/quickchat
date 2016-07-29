@@ -1,0 +1,26 @@
+{
+  "name": "quickchat",
+  "version": "0.1.0",
+  "description": "Basic command line TCP chat.",
+  "main": "index.js",
+  "bin": {
+    "quickchat": "quickchat.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oaksage/quickchat.git"
+  },
+  "keywords": [],
+  "author": "David Scott",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oaksage/quickchat/issues"
+  },
+  "homepage": "https://github.com/oaksage/quickchat#readme",
+  "dependencies": {
+    "ip": "^1.1.3"
+  }
+}
