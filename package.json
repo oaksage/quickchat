@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Basic command line TCP chat.",
   "bin": {
-    "quickchat": "quickchat.js"
+    "quickchat": "index.js"
   },
   "preferGlobal": true,
   "scripts": {
