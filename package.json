@@ -2,10 +2,10 @@
   "name": "quickchat",
   "version": "0.1.0",
   "description": "Basic command line TCP chat.",
-  "main": "index.js",
   "bin": {
     "quickchat": "quickchat.js"
   },
+  "preferGlobal": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
